@@ -1,0 +1,29 @@
+{
+  "name": "bucketcrypt",
+  "version": "1.0.0",
+  "description": "API for encryption and decryption",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pvishnuprasaath/Bucketcrypt.git"
+  },
+  "keywords": [
+    "cryptography",
+    "encryption",
+    "decryption",
+    "api",
+    "aes"
+  ],
+  "author": "Vishnu Prasaath",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pvishnuprasaath/Bucketcrypt/issues"
+  },
+  "homepage": "https://github.com/pvishnuprasaath/Bucketcrypt#readme",
+  "dependencies": {
+    "express": "^4.15.4"
+  }
+}
